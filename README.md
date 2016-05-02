@@ -1,2 +1,3 @@
-# WiegandUSB
-Wiegand to USB converter on Arduino hardware
+# WiegandToUSB
+Wiegand to USB converter
+Based on Arduino Leonardo Hardware
